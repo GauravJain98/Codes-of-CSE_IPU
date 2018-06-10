@@ -1,12 +1,12 @@
 # Codes-of-CSE_IPU
 
 
-2rd Semester
+3rd Semester
 ---------------------
 - [Data Structures](https://github.com/GauravJain98/DataStructuresLab) 
  
 
-3rd Semester
+4th Semester
 ---------------------
 - [Applied Maths - IV](https://github.com/GauravJain98/Mathslab)
 
