@@ -18,3 +18,7 @@
 ---------------------
 - [Software Engineering](https://github.com/GauravJain98/SE-Lab)
 - [Java](https://github.com/GauravJain98/Java-Lab/tree/master)
+
+6th Semester
+---------------------
+- [Web Technologies](https://github.com/GauravJain98/web-lab)
